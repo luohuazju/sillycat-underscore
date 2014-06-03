@@ -1,1 +1,14 @@
- 
+{
+	"name"			:	"sillycat-underscore",
+	"version"		:	"0.1.0",
+	"description"	:	"Module for UnderScore Extension",
+	"main"			: 	"lib/app.js",
+	"repository"	: 	{
+		"type": "git",
+		"url": "git://github.com/luohuazju/sillycat-underscore.git"
+	},
+	"dependencies"	:	{
+		"should"	:	"3.3.2",
+		"underscore":	"1.6.0"
+	}
+}
